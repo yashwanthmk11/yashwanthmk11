@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Hi, I'm **Yashwanth M K**, a passionate Full Stack Developer and Computer Science engineering student currently in my 6th semester at Rajiv Gandhi Institute of Technology (2022–2026). I love building efficient, user-friendly web applications and exploring AI and ML in my free time.<br><br>### 💻 Tech Stack<br>- **Frontend:** HTML, CSS, JavaScript, React<br>- **Backend:** Node.js, Express.js<br>- **Database:** MongoDB, MySQL<br>- **Languages:** Java, Python<br>- **Tools:** Postman, Git, GitHub, VS Code<br><br>### 🚀 Projects & Interests<br>- Developed a **Weather App** with animated UI and auto-location detection.<br>- Built a **Notes App** and a **Health Tracker App** with full stack capabilities.<br>- Created a **YouTube Clone** as part of a project challenge.<br>- Interested in AI, fake news detection, and digital productivity tools.<br><br>### 🏅 Achievements<br>- Completed a 3-month full stack internship at **Skolar**.
+<br><br>Hi, I'm **Yashwanth M K**, a passionate Full Stack Developer and Computer Science engineering student currently in my 6th semester at Rajiv Gandhi Institute of Technology (2022–2026). I love building efficient, user-friendly web applications and exploring AI and ML in my free time.<br>
 
 
 ## 🌐 Socials:
