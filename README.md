@@ -1,8 +1,8 @@
-Sure, Yashwanth! Here's a **simple and professional overview of your GitHub profile** based on your projects, skills, and current focus. You can use this as your **GitHub bio**, share it on LinkedIn, or include it in resumes/portfolios.
+
 
 ---
 
-## 🔹 GitHub Profile Overview – Yashwanth M K
+## Yashwanth M K
 
 🎓 **About Me:**
 I'm a passionate Computer Science Engineering student (2022–2026) currently in my 6th semester. I'm focused on building full stack applications using the MERN stack and exploring AI/ML integrations. I enjoy turning ideas into real-world products with clean UI/UX and efficient backend logic.
@@ -34,7 +34,6 @@ I'm a passionate Computer Science Engineering student (2022–2026) currently in
 🏆 **Certifications & Experience:**
 
 * 3-month full stack internship at **Skolar**
-* LetsUpgrade YouTube Clone Certificate
 * Participated in multiple mini-projects and technical events
 * Active contributor to academic and real-world coding projects
 
@@ -50,4 +49,4 @@ I'm a **state-level volleyball and kho-kho player** who brings the same discipli
 
 ---
 
-Would you like a shorter **GitHub bio** version (like under 160 characters) or a **profile README.md** file with visuals and stats badges too?
+
