@@ -1,18 +1,53 @@
-# 💫 About Me:
-<br><br>Hi, I'm **Yashwanth M K**, a passionate Full Stack Developer and Computer Science engineering student currently in my 6th semester at Rajiv Gandhi Institute of Technology (2022–2026). I love building efficient, user-friendly web applications and exploring AI and ML in my free time.<br>
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nxPVH89m) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashwanth._____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yashwanth M K) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashwanthmk11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashwanthmk11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthmk11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Sure, Yashwanth! Here's a **simple and professional overview of your GitHub profile** based on your projects, skills, and current focus. You can use this as your **GitHub bio**, share it on LinkedIn, or include it in resumes/portfolios.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashwanthmk11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔹 GitHub Profile Overview – Yashwanth M K
+
+🎓 **About Me:**
+I'm a passionate Computer Science Engineering student (2022–2026) currently in my 6th semester. I'm focused on building full stack applications using the MERN stack and exploring AI/ML integrations. I enjoy turning ideas into real-world products with clean UI/UX and efficient backend logic.
+
+💡 **Current Focus:**
+
+* Full Stack Development (MERN)
+* AI & Machine Learning Integration
+* Real-time Web Apps (Socket.IO, WebRTC)
+* Smart, scalable, and user-friendly UI/UX
+
+🔧 **Tech Stack:**
+
+* **Frontend:** HTML, CSS, JavaScript, React
+* **Backend:** Node.js, Express
+* **Database:** MongoDB, MySQL
+* **Tools:** Git, Postman, Render, Vercel
+* **Others:** Python, Java, OpenAI API, WebRTC, Socket.IO
+
+🚀 **Highlighted Projects:**
+
+1. **AI Group Discussion Platform** – MERN-based platform with real-time voice chat and AI feedback
+2. **Health Tracker App** – Full stack app to track personal health metrics (React + Node.js + MongoDB)
+3. **Weather App** – Clean React UI with auto-location and animated backgrounds
+4. **YouTube Clone** – Completed under LetsUpgrade, replicates core features of YouTube
+5. **Notes App** – CRUD-enabled full stack notes manager
+6. **Portfolio Website** – Responsive site showcasing my projects, resume, and contact links
+
+🏆 **Certifications & Experience:**
+
+* 3-month full stack internship at **Skolar**
+* LetsUpgrade YouTube Clone Certificate
+* Participated in multiple mini-projects and technical events
+* Active contributor to academic and real-world coding projects
+
+🏐 **Beyond Tech:**
+I'm a **state-level volleyball and kho-kho player** who brings the same discipline and teamwork from sports into my software projects.
+
+📫 **Let's Connect:**
+
+* GitHub: [yashwanthmk11](https://github.com/yashwanthmk11)
+* Portfolio: [yashwanth's portfolio](https://yashwanthmk11.github.io)
+* LinkedIn: [Yashwanth M K](https://www.linkedin.com/in/yashwanth-m-k)
+* Email: [mkyshwanth3@gmail.com](mailto:mkyshwanth3@gmail.com)
+
+---
+
+Would you like a shorter **GitHub bio** version (like under 160 characters) or a **profile README.md** file with visuals and stats badges too?
