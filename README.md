@@ -55,7 +55,7 @@ I'm a **state-level volleyball and kho-kho player** who brings the same discipli
 
 * GitHub: [yashwanthmk11](https://github.com/yashwanthmk11)
 * Portfolio: [yashwanth's portfolio](https://personal-portfolio-t4e2.vercel.app/)
-* LinkedIn: [Yashwanth M K](https://www.linkedin.com/in/yashwanth-m-k)
+* LinkedIn: [Yashwanth M K](www.linkedin.com/in/yashwanthmk)
 * Email: [mkyshwanth3@gmail.com](mailto:mkyshwanth3@gmail.com)
 
 ---
