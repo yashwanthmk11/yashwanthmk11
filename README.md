@@ -8,7 +8,7 @@
 🎓 **About Me:**
 ---
 
-I'm a passionate Computer Science Engineering student (2022–2026) currently in my 7th semester. I'm focused on building full stack applications using the MERN stack and exploring AI/ML integrations. I enjoy turning ideas into real-world products with clean UI/UX and efficient backend logic.
+I'm a passionate Computer Science Engineering student (2022–2026) currently in my 8th semester. I'm focused on building full stack applications using the MERN stack and exploring AI/ML integrations. I enjoy turning ideas into real-world products with clean UI/UX and efficient backend logic.
 
 
 💡 **Current Focus:**
