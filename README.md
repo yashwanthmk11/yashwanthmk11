@@ -111,13 +111,6 @@ These qualities help me stay focused and collaborative in software development.
 
 ---
 
-## 📊 GitHub Stats
-
-![Yashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashwanthmk11&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthmk11&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yashwanthmk11&theme=radical)
 ## 📫 Connect With Me
 
 **GitHub**  
