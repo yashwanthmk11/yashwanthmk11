@@ -1,4 +1,4 @@
-# 🚀 Yashwanth M K
+#  Yashwanth M K
 
 ### DevOps Learner | Full Stack Developer | Cloud & Automation
 
