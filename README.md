@@ -78,14 +78,13 @@ Real-time discussion platform with **voice chat and AI feedback** built using **
 ### 📊 Health Tracker App
 Full stack application for tracking personal health metrics using **React, Node.js, and MongoDB**.
 
-### ☁ Weather App
-Responsive React application with location-based weather updates and dynamic UI.
+### 🏠 Student Room Rentals
+A web application that helps students find and rent rooms easily.  
+Features include room listings, search filters, booking options, and user management. Built with **React, Node.js, Express, and MongoDB**.
 
-### 📝 Notes App
-CRUD-based full stack notes management application.
+### 📊 User Dashboard
+A responsive dashboard interface that displays user data, analytics, and management tools in a clean UI. Built using **React and modern UI components**.
 
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects, skills, and contact information.
 
 ---
 
