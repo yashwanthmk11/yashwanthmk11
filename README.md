@@ -117,7 +117,7 @@ These qualities help me stay focused and collaborative in software development.
 https://github.com/yashwanthmk11
 
 **Portfolio**  
-https://personal-portfolio-t4e2.vercel.app/
+[https://personal-portfolio-t4e2.vercel.app/](https://yashwanth-portfolio-chi.vercel.app/)
 
 **LinkedIn**  
 https://www.linkedin.com/in/yashwanthmk
