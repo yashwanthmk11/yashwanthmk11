@@ -1,6 +1,6 @@
 # 🚀 Yashwanth M K
 
-### DevOps Engineer | Full Stack Developer | Cloud & Automation
+### DevOps Learner | Full Stack Developer | Cloud & Automation
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yashwanthmk11&color=blue)
 
@@ -10,25 +10,25 @@
 
 I’m a **Computer Science student (2022–2026)** passionate about **DevOps, Cloud Infrastructure, and Full Stack Development**.
 
-My journey started with building web applications using the **MERN stack**, and gradually I developed a strong interest in **DevOps practices such as CI/CD, cloud deployment, automation, and scalable system design**.
+My journey started with building web applications using the **MERN stack**, and gradually I developed a strong interest in **DevOps practices such as cloud deployment, CI/CD pipelines, automation, and scalable system design**.
 
 I enjoy building applications **from development to deployment**, focusing on performance, reliability, and clean architecture.
 
-Currently, I am learning and practicing **DevOps tools, cloud deployment, and modern development workflows**.
+Currently I am actively learning and practicing **DevOps tools, cloud infrastructure, and modern development workflows**.
 
 ---
 
-## ⚡ DevOps Journey
+## ⚡ My DevOps Journey
 
-I’m actively exploring the **DevOps ecosystem** and working on projects involving:
+I am currently exploring the **DevOps ecosystem** and gaining hands-on experience with:
 
 - Cloud deployment using **AWS**
-- Application deployment with **Apache Tomcat & EC2**
-- Version control and collaboration using **Git & GitHub**
-- Building and deploying **full stack applications**
-- Learning **CI/CD workflows and automation**
+- Application deployment using **Apache Tomcat & EC2**
+- Version control using **Git & GitHub**
+- Deploying **full stack applications**
+- Learning **CI/CD workflows and automation practices**
 
-My goal is to become a **DevOps Engineer who can bridge development and operations efficiently.**
+My goal is to grow into a **DevOps Engineer who can efficiently connect development and operations.**
 
 ---
 
@@ -53,7 +53,7 @@ My goal is to become a **DevOps Engineer who can bridge development and operatio
 - MongoDB  
 - MySQL  
 
-### ☁ DevOps & Cloud
+### ☁ Cloud & DevOps
 - AWS EC2  
 - Apache Tomcat  
 - Git & GitHub  
@@ -108,7 +108,7 @@ Sports helped me develop:
 - Teamwork  
 - Consistency  
 
-These values influence how I approach software development and teamwork.
+These qualities help me stay focused and collaborative in software development.
 
 ---
 
