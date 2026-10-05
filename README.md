@@ -1,128 +1,84 @@
-#  Yashwanth M K
+<div align="center">
 
-### DevOps Learner | Full Stack Developer | Cloud & Automation
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=1D9BF0&center=true&vCenter=true&width=600&height=55&lines=Yashwanth+M+K" alt="Yashwanth M K" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=yashwanthmk11&color=blue)
+<sub>DevOps & software developer building cloud infrastructure, CI/CD pipelines, and production-ready applications.</sub>
 
----
+<br />
 
-## 👨‍💻 About Me
+<sub>
+&nbsp; <a href="https://www.linkedin.com/in/yashwanthmk">LinkedIn</a> •
+&nbsp; <a href="mailto:mkyshwanth3@gmail.com">Email</a> •
+&nbsp; <a href="https://personal-portfolio-t4e2.vercel.app/">Portfolio</a> •
+&nbsp; <a href="https://github.com/yashwanthmk11">GitHub</a>
+</sub>
 
-I’m a **Computer Science student (2022–2026)** passionate about **DevOps, Cloud Infrastructure, and Full Stack Development**.
-
-My journey started with building web applications using the **MERN stack**, and gradually I developed a strong interest in **DevOps practices such as cloud deployment, CI/CD pipelines, automation, and scalable system design**.
-
-I enjoy building applications **from development to deployment**, focusing on performance, reliability, and clean architecture.
-
-Currently I am actively learning and practicing **DevOps tools, cloud infrastructure, and modern development workflows**.
-
----
-
-## ⚡ My DevOps Journey
-
-I am currently exploring the **DevOps ecosystem** and gaining hands-on experience with:
-
-- Cloud deployment using **AWS**
-- Application deployment using **Apache Tomcat & EC2**
-- Version control using **Git & GitHub**
-- Deploying **full stack applications**
-- Learning **CI/CD workflows and automation practices**
-
-My goal is to grow into a **DevOps Engineer who can efficiently connect development and operations.**
+</div>
 
 ---
 
-## 🛠 Tech Stack
+### About Me
 
-### 💻 Programming
-- JavaScript  
-- Java  
-- Python  
+- **Software Development Intern @ SESIPL** — working on digitalizing employee onboarding workflows, including live photograph capture, digital signatures, and paperless joining processes.
+- **DevOps Intern @ Jspiders** — worked with AWS, EC2, RDS, Jenkins, Docker, Linux, Git/GitHub, and Apache Tomcat for application deployment and CI/CD automation.
+- **DevOps Pipeline & Cloud Deployment** — deployed a Spring Boot application on AWS with an automated Jenkins pipeline covering checkout, build, and deployment.
+- **AI Group Discussion Platform** — real-time discussion platform built with MERN, WebRTC, Socket.IO, and OpenAI API for AI-assisted feedback.
+- **Employee Onboarding System** — digital onboarding workflow designed to replace paper-based employee joining processes with online forms, live photographs, and digital signatures.
+- **Training Management Portal** — internal reporting platform for trainers and companies to record attendance, training progress, daily activities, and feedback.
+- **Gym Application** — full-stack application for managing gym activities, users, workouts, and fitness tracking using the MERN stack.
+- **Health Tracker** — full-stack application for tracking and managing personal health data using React, Node.js, Express, and MongoDB.
+- **User Dashboard** — responsive management dashboard built with React and modern form-validation workflows.
+- **Porsche Website Clone** — responsive web application deployed on AWS using Apache Tomcat.
+- **Fake News Detection** — machine-learning project for detecting potentially misleading or fake news using Python.
+- **Memory Match Game** — browser-based interactive memory game built with modern JavaScript.
 
-### 🌐 Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- React  
-
-### ⚙ Backend
-- Node.js  
-- Express.js  
-
-### 🗄 Databases
-- MongoDB  
-- MySQL  
-
-### ☁ Cloud & DevOps
-- AWS EC2  
-- Apache Tomcat  
-- Git & GitHub  
-- Vercel  
-- Render  
-
-### 🧰 Tools
-- Postman  
-- VS Code  
-- Git  
+Currently exploring **DevOps automation, cloud infrastructure, Docker, Kubernetes, CI/CD, system design, and production application deployment.**
 
 ---
 
-## 🚀 Projects
+### Tech Stack
 
-### 🏎 Porsche Website Clone
-Responsive Porsche landing page clone deployed on **AWS EC2 using Apache Tomcat**.
+<div align="center">
 
-### 🤖 AI Group Discussion Platform
-Real-time discussion platform with **voice chat and AI feedback** built using **MERN, WebRTC, and Socket.IO**.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### 📊 Health Tracker App
-Full stack application for tracking personal health metrics using **React, Node.js, and MongoDB**.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=fastapi&logoColor=white)
 
-### 🏠 Student Room Rentals
-A web application that helps students find and rent rooms easily.  
-Features include room listings, search filters, booking options, and user management. Built with **React, Node.js, Express, and MongoDB**.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
 
-### 📊 User Dashboard
-A responsive dashboard interface that displays user data, analytics, and management tools in a clean UI. Built using **React and modern UI components**.
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 
-
----
-
-## 🎓 Experience
-
-### Full Stack Development Intern — Skolar
-
-- Worked on real-world MERN stack applications  
-- Built APIs and user interfaces  
-- Learned development workflows and collaboration
-
----
-
-## 🏆 Beyond Tech
-
-I am also a **State Level Volleyball and Kho-Kho Player**.
-
-Sports helped me develop:
-- Discipline  
-- Teamwork  
-- Consistency  
-
-These qualities help me stay focused and collaborative in software development.
+</div>
 
 ---
 
-## 📫 Connect With Me
+<sub align="center">
 
-**GitHub**  
-https://github.com/yashwanthmk11
+Also working with: **CI/CD · AWS EC2 · Amazon RDS · Jenkins Pipelines · Docker · Linux · Apache Tomcat · WebRTC · Socket.IO · REST APIs · Cloud Deployment · Automation**
 
-**Portfolio**  
-[https://personal-portfolio-t4e2.vercel.app/](https://yashwanth-portfolio-chi.vercel.app/)
+</sub>
 
-**LinkedIn**  
-https://www.linkedin.com/in/yashwanthmk
+<div align="center">
 
-**Email**  
-mkyshwanth3@gmail.com
+<img src="https://komarev.com/ghpvc/?username=yashwanthmk11&style=flat&label=Profile+Views" alt="Profile Views" />
 
----
+</div>
