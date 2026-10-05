@@ -9,7 +9,6 @@
 <sub>
 &nbsp; <a href="https://www.linkedin.com/in/yashwanthmk">LinkedIn</a> •
 &nbsp; <a href="mailto:mkyshwanth3@gmail.com">Email</a> •
-&nbsp; <a href="https://personal-portfolio-t4e2.vercel.app/">Portfolio</a> •
 &nbsp; <a href="https://github.com/yashwanthmk11">GitHub</a>
 </sub>
 
@@ -22,16 +21,16 @@
 - **Software Development Intern @ [SESIPL](https://sesipl.com/)** — working on digitalizing employee onboarding workflows, including live photograph capture, digital signatures, and paperless joining processes.
 - **DevOps Intern @ [Jspiders](https://www.jspiders.com/)** — working with AWS, EC2, RDS, Jenkins, Docker, Linux, Git/GitHub, and Apache Tomcat for application deployment and CI/CD automation.
 - **Full Stack Developer Intern @ [Skolar](https://skolar.in/)** — worked on real-world full-stack application development and MERN-based projects.
-- **[DevOps Pipeline & Cloud Deployment](https://github.com/yashwanthmk11)** — deployed a Spring Boot application on AWS with Jenkins-based CI/CD automation.
+- **DevOps Pipeline & Cloud Deployment** — deployed a Spring Boot application on AWS with Jenkins-based CI/CD automation.
 - **[AI Group Discussion Platform](https://github.com/yashwanthmk11/gd-platform)** — real-time discussion platform built with MERN, WebRTC, Socket.IO, and OpenAI API.
+- **EHS Project** — enterprise-focused application for managing environmental, health, and safety workflows, records, and operational processes.
 - **Employee Onboarding System** — digital onboarding workflow designed to replace paper-based employee joining with online forms, live photographs, and digital signatures.
-- **[Training Management Portal](https://github.com/yashwanthmk11)** — internal reporting platform for trainers and companies to manage training activities, attendance, progress, and reports.
+- **Training Management Portal** — internal reporting platform for trainers and companies to manage training activities, attendance, progress, and reports.
 - **[Gym Application](https://github.com/yashwanthmk11/GYM-APPLICATION)** — full-stack gym management and tracking application built with the MERN stack.
 - **[Health Tracker](https://github.com/yashwanthmk11/HEALTH-TRACKING-APP)** — MERN application for tracking health metrics with a deployed frontend.
 - **[Fake News Detection](https://github.com/yashwanthmk11/Fake-News-Detection)** — machine-learning project for detecting potentially misleading news.
 - **[Finance Tracker](https://github.com/yashwanthmk11/Finance-Tracker)** — MERN-based personal finance management application.
 - **[Memory Match Game](https://github.com/yashwanthmk11/Memory-Match-Game)** — interactive browser-based memory game.
-- **[Portfolio Website](https://personal-portfolio-t4e2.vercel.app/)** — personal portfolio showcasing projects, skills, experience, and contact information.
 
 Currently exploring **DevOps automation, cloud infrastructure, Docker, Kubernetes, CI/CD, system design, and production application deployment.**
 
