@@ -23,7 +23,7 @@
 - **Full Stack Developer Intern @ [Skolar](https://skolar.in/)** — worked on real-world full-stack application development and MERN-based projects.
 - **DevOps Pipeline & Cloud Deployment** — deployed a Spring Boot application on AWS with Jenkins-based CI/CD automation.
 - **[AI Group Discussion Platform](https://github.com/yashwanthmk11/gd-platform)** — real-time discussion platform built with MERN, WebRTC, Socket.IO, and OpenAI API.
-- **[ERP Project](YOUR_ERP_REPOSITORY_URL)** — enterprise application for managing business operations, workflows, records, and organizational processes.
+- **[BharatERP Enterprise Suite](https://erp-system-1-a997.onrender.com/)** — production-ready ERP platform with Indian GST compliance, finance, HR & payroll, multi-warehouse inventory, CRM, procurement, manufacturing/MRP, project management, service management, statistical reporting, and an AI operational assistant.
 - **Employee Onboarding System** — digital onboarding workflow designed to replace paper-based employee joining with online forms, live photographs, and digital signatures.
 - **Training Management Portal** — internal reporting platform for trainers and companies to manage training activities, attendance, progress, and reports.
 - **[Gym Application](https://github.com/yashwanthmk11/GYM-APPLICATION)** — full-stack gym management and tracking application built with the MERN stack.
