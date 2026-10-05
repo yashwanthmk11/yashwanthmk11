@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=1D9BF0&center=true&vCenter=true&width=600&height=55&lines=Yashwanth+M+K" alt="Yashwanth M K" />
 
-<sub>DevOps & software developer building cloud infrastructure, CI/CD pipelines, and production-ready applications.</sub>
+<sub>DevOps & software developer building cloud infrastructure, CI/CD pipelines, automation, and production-ready applications.</sub>
 
 <br />
 
@@ -19,18 +19,19 @@
 
 ### About Me
 
-- **Software Development Intern @ SESIPL** — working on digitalizing employee onboarding workflows, including live photograph capture, digital signatures, and paperless joining processes.
-- **DevOps Intern @ Jspiders** — worked with AWS, EC2, RDS, Jenkins, Docker, Linux, Git/GitHub, and Apache Tomcat for application deployment and CI/CD automation.
-- **DevOps Pipeline & Cloud Deployment** — deployed a Spring Boot application on AWS with an automated Jenkins pipeline covering checkout, build, and deployment.
-- **AI Group Discussion Platform** — real-time discussion platform built with MERN, WebRTC, Socket.IO, and OpenAI API for AI-assisted feedback.
-- **Employee Onboarding System** — digital onboarding workflow designed to replace paper-based employee joining processes with online forms, live photographs, and digital signatures.
-- **Training Management Portal** — internal reporting platform for trainers and companies to record attendance, training progress, daily activities, and feedback.
-- **Gym Application** — full-stack application for managing gym activities, users, workouts, and fitness tracking using the MERN stack.
-- **Health Tracker** — full-stack application for tracking and managing personal health data using React, Node.js, Express, and MongoDB.
-- **User Dashboard** — responsive management dashboard built with React and modern form-validation workflows.
-- **Porsche Website Clone** — responsive web application deployed on AWS using Apache Tomcat.
-- **Fake News Detection** — machine-learning project for detecting potentially misleading or fake news using Python.
-- **Memory Match Game** — browser-based interactive memory game built with modern JavaScript.
+- **Software Development Intern @ [SESIPL](https://sesipl.com/)** — working on digitalizing employee onboarding workflows, including live photograph capture, digital signatures, and paperless joining processes.
+- **DevOps Intern @ [Jspiders](https://www.jspiders.com/)** — working with AWS, EC2, RDS, Jenkins, Docker, Linux, Git/GitHub, and Apache Tomcat for application deployment and CI/CD automation.
+- **Full Stack Developer Intern @ [Skolar](https://skolar.in/)** — worked on real-world full-stack application development and MERN-based projects.
+- **[DevOps Pipeline & Cloud Deployment](https://github.com/yashwanthmk11)** — deployed a Spring Boot application on AWS with Jenkins-based CI/CD automation.
+- **[AI Group Discussion Platform](https://github.com/yashwanthmk11/gd-platform)** — real-time discussion platform built with MERN, WebRTC, Socket.IO, and OpenAI API.
+- **Employee Onboarding System** — digital onboarding workflow designed to replace paper-based employee joining with online forms, live photographs, and digital signatures.
+- **[Training Management Portal](https://github.com/yashwanthmk11)** — internal reporting platform for trainers and companies to manage training activities, attendance, progress, and reports.
+- **[Gym Application](https://github.com/yashwanthmk11/GYM-APPLICATION)** — full-stack gym management and tracking application built with the MERN stack.
+- **[Health Tracker](https://github.com/yashwanthmk11/HEALTH-TRACKING-APP)** — MERN application for tracking health metrics with a deployed frontend.
+- **[Fake News Detection](https://github.com/yashwanthmk11/Fake-News-Detection)** — machine-learning project for detecting potentially misleading news.
+- **[Finance Tracker](https://github.com/yashwanthmk11/Finance-Tracker)** — MERN-based personal finance management application.
+- **[Memory Match Game](https://github.com/yashwanthmk11/Memory-Match-Game)** — interactive browser-based memory game.
+- **[Portfolio Website](https://personal-portfolio-t4e2.vercel.app/)** — personal portfolio showcasing projects, skills, experience, and contact information.
 
 Currently exploring **DevOps automation, cloud infrastructure, Docker, Kubernetes, CI/CD, system design, and production application deployment.**
 
